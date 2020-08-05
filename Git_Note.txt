@@ -1,0 +1,5 @@
+# Git Note
+    $ git add <filename> #将文件提交到暂存区
+    $ git commit -m <message> #将暂存区的文件提交到库里
+    $ git status #查看当前状态 
+    $ git add <filename>
